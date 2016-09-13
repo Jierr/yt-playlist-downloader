@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1426080505 source:g:\development\vlc\converter\main.cpp
+	<iostream>
+	<sstream>
+	<cstdio>
+	<entities.h>
+	<windows.h>
+	<direct.h>
+	"definitions.hh"
+	"iniparser.hpp"
+	"playlist.hpp"
+
+1407333453 source:g:\development\vlc\converter\parser.cpp
+	<iostream>
+	<string>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"parser.hpp"
+	<stddef.h>
+	<libintl.h>
+	<alloca.h>
+	<malloc.h>
+	<stdlib.h>
+	<stdlib.h>
+	<stdio.h>
+
+1407333453 g:\development\vlc\converter\parser.hpp
+
+1407333725 source:g:\development\vlc\converter\pxml.l
+	"pxml.parser.hh"
+	<string>
+	<iostream>
+
+1407355531 source:g:\development\vlc\converter\pxml.y
+	<iostream>
+	<string>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"pxml.parser.hh"
+	"definitions.hh"
+
+1407333453 source:g:\development\vlc\converter\scanner.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<io.h>
+	<stdlib.h>
+	"parser.hpp"
+	<string>
+	<iostream>
+	<stdlib.h>
+
+1426080551 g:\development\vlc\converter\pxml.parser.hh
+
+1407355799 source:g:\development\vlc\converter\definitions.cc
+	"definitions.hh"
+
+1407368031 g:\development\vlc\converter\definitions.hh
+	<string>
+	<cstring>
+	<cstdlib>
+	<entities.hpp>
+	<utf8.h>
+	"playlist.hpp"
+	"pxml.parser.hh"
+
+1407344889 c:\toolkits\html-entities\include\entities.h
+	<stddef.h>
+
+1407355806 source:g:\development\vlc\converter\playlist.cpp
+	"playlist.hpp"
+
+1407353193 g:\development\vlc\converter\playlist.hpp
+	<string>
+	<list>
+	<vector>
+
+1407344780 c:\toolkits\html-entities\include\entities.hpp
+	<stddef.h>
+
+1360459512 c:\toolkits\utf8_v2_3_4\source\utf8.h
+	"utf8/checked.h"
+	"utf8/unchecked.h"
+
+1361144136 c:\toolkits\utf8_v2_3_4\source\utf8\checked.h
+	"core.h"
+	<stdexcept>
+
+1360459512 c:\toolkits\utf8_v2_3_4\source\utf8\core.h
+	<iterator>
+
+1360459512 c:\toolkits\utf8_v2_3_4\source\utf8\unchecked.h
+	"core.h"
+
+1426066899 source:g:\development\vlc\converter\iniparser.cpp
+	"iniparser.hpp"
+	<iostream>
+
+1426066444 g:\development\vlc\converter\iniparser.hpp
+	<string>
+	<cstdio>
+	<cstdlib>
+
